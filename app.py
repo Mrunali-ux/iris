@@ -1,8 +1,4 @@
 
-khobragade tanmay <khobragadetanmay60@gmail.com>
-11:15 AM (0 minutes ago)
-to me
-
 import streamlit as st
 import joblib
 import numpy as np
